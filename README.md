@@ -1,4 +1,4 @@
-# Olá, eu sou o Fernando Canquerini! 👋
+# Olá, eu sou o Fernando Bueno! 👋
 
 🎓 Estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas** na Universidade Federal do Paraná (UFPR).
 
